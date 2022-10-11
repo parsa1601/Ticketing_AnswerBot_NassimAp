@@ -1,0 +1,336 @@
+I am checking the word:  خوش
+
+I am checking the word:  آمد
+
+Valid Useless(Common):  آمد
+I am checking the word:  به
+
+Valid Useless(Common):  به
+I am checking the word:  کلام
+
+I am checking the word:  آغازین
+
+I am checking the word:  را
+
+Valid Useless(Common):  را
+I am checking the word:  میکنیم
+
+Valid Useless(Common):  میکنیم
+I am checking the word:  سلام.
+
+I am checking the word:  سلام
+
+Valid Useless(Common):  سلام
+I am checking the word:  شما
+
+Valid Useless(Common):  شما
+I am checking the word:  بزرگوار
+
+I am checking the word:  بسی
+
+I am checking the word:  خشنودیم
+
+I am checking the word:  که
+
+Valid Useless(Common):  که
+I am checking the word:  رفیق
+
+I am checking the word:  راهمان
+
+I am checking the word:  گشته
+
+I am checking the word:  تا
+
+Valid Useless(Common):  تا
+I am checking the word:  خدمت
+
+I am checking the word:  سرور
+
+I am checking the word:  ارجمندی،
+
+I am checking the word:  چون
+
+Valid Useless(Common):  چون
+I am checking the word:  باشیم.
+
+I am checking the word:  ما
+
+Valid Useless(Common):  ما
+I am checking the word:  خود
+
+Valid Useless(Common):  خود
+I am checking the word:  بر
+
+Valid Useless(Common):  بر
+I am checking the word:  میدانیم
+
+I am checking the word:  که
+
+Valid Useless(Common):  که
+I am checking the word:  را
+
+Valid Useless(Common):  را
+I am checking the word:  جای
+
+Valid Useless(Common):  جای
+I am checking the word:  برای
+
+Valid Useless(Common):  برای
+I am checking the word:  خود
+
+Valid Useless(Common):  خود
+I am checking the word:  تبدیل
+
+Valid Useless(Common):  تبدیل
+I am checking the word:  تا
+
+Valid Useless(Common):  تا
+I am checking the word:  جای
+
+Valid Useless(Common):  جای
+I am checking the word:  برای
+
+Valid Useless(Common):  برای
+I am checking the word:  شود.
+
+I am checking the word:  مشترک
+
+I am checking the word:  گرامی
+
+Valid Useless(Common):  گرامی
+I am checking the word:  مرکز
+
+I am checking the word:  تماس
+
+I am checking the word:  هاستد
+
+I am checking the word:  شما
+
+Valid Useless(Common):  شما
+I am checking the word:  شرح
+
+I am checking the word:  ذیل
+
+I am checking the word:  میباشد
+
+Valid Useless(Common):  میباشد
+I am checking the word:  address=
+
+Valid ENgForm: address 
+I am checking the word:  domain(sip
+
+Valid ENgForm: domain sip
+I am checking the word:  daneshjosho.hifon.ir
+
+Valid Link: daneshjosho.hifon.ir
+I am checking the word:  proxy=
+
+Valid ENgForm: proxy 
+I am checking the word:  username=
+
+Valid ENgForm: username 
+I am checking the word:  password=
+
+Valid ENgForm: password 
+I am checking the word:  همچنین
+
+Valid Useless(Common):  همچنین
+I am checking the word:  رجستر
+
+I am checking the word:  نمودن
+
+I am checking the word:  داخلی
+
+I am checking the word:  های
+
+Valid Useless(Common):  های
+I am checking the word:  (کلود)
+
+I am checking the word:  میتوانید
+
+I am checking the word:  از
+
+Valid Useless(Common):  از
+I am checking the word:  لینک
+
+I am checking the word:  های
+
+Valid Useless(Common):  های
+I am checking the word:  اقدام
+
+I am checking the word:  فرمایید.
+
+I am checking the word:  لینک
+
+I am checking the word:  آموزش
+
+I am checking the word:  ویدیویی
+
+I am checking the word:  https://www.aparat.com/mysup
+
+Valid Link: https://www.aparat.com/mysup
+I am checking the word:  لینک
+
+I am checking the word:  آموزش
+
+I am checking the word:  متنی
+
+I am checking the word:  https://forum.mysup.ir/t/%D8%B1%D9%88%D8%B4-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%DB%8C%D9%88%D8%B2%D8%B1-%D8%AF%D8%B1-simotel-hosted-pbx/272/7
+
+Valid Link: https://forum.mysup.ir/t/%D8%B1%D9%88%D8%B4-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%DB%8C%D9%88%D8%B2%D8%B1-%D8%AF%D8%B1-simotel-hosted-pbx/272/7
+I am checking the word:  جهت
+
+I am checking the word:  مطالعه
+
+I am checking the word:  مستندات
+
+I am checking the word:  مربوط
+
+Valid Useless(Common):  مربوط
+I am checking the word:  سیموتل
+
+I am checking the word:  میتوانید
+
+I am checking the word:  از
+
+Valid Useless(Common):  از
+I am checking the word:  لینک
+
+I am checking the word:  زیر
+
+Valid Useless(Common):  زیر
+I am checking the word:  فرمایید
+
+I am checking the word:  https://doc.mysup.ir/
+
+Valid Link: https://doc.mysup.ir/
+I am checking the word:  در
+
+Valid Useless(Common):  در
+I am checking the word:  وجود
+
+Valid Useless(Common):  وجود
+I am checking the word:  گونه
+
+Valid Useless(Common):  گونه
+I am checking the word:  میتوانید
+
+I am checking the word:  با
+
+Valid Useless(Common):  با
+I am checking the word:  پشتیبانی
+
+I am checking the word:  در
+
+Valid Useless(Common):  در
+I am checking the word:  باشید.
+
+I am checking the word:  با
+
+Valid Useless(Common):  با
+I am checking the word:  از
+
+Valid Useless(Common):  از
+I am checking the word:  شما
+
+Valid Useless(Common):  شما
+rest: 
+خوش
+میگوییم
+شما
+و
+کلام
+آغازین
+مزین
+به
+سلام.
+به
+دوست
+بزرگوار
+بسی
+خشنودیم
+توفیق،
+رفیق
+راهمان
+گشته
+در
+خدمت
+سرور
+ارجمندی،
+شما
+باشیم.
+رسالت
+را
+این
+میدانیم
+دنیا
+به
+بهتری
+زندگی
+ودیگران
+کنیم
+دنیا
+زیباتری
+زندگی
+شود.
+مشترک
+اطلاعات
+مرکز
+تماس
+هاستد
+به
+شرح
+ذیل
+web
+cloud.hifon.ir_x000D_
+server)=
+sip
+proxy.mysup.ir_x000D_
+fazlollahi_x000D_
+fazlollahi@123_x000D_
+
+
+جهت
+رجستر
+نمودن
+داخلی
+هاستد
+(کلود)
+میتوانید
+طریق
+لینک
+زیر
+اقدام
+فرمایید.
+
+لینک
+آموزش
+ویدیویی
+
+_x000D_
+لینک
+آموزش
+متنی
+همچنین
+جهت
+مطالعه
+مستندات
+به
+سیموتل
+میتوانید
+طریق
+لینک
+اقدام
+فرمایید
+ضمنا
+صورت
+هر
+درخواستی،
+میتوانید
+واحد
+پشتیبانی
+ارتباط
+باشید.
+
+تشکر
+همکاری
