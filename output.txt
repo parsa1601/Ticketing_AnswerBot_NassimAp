@@ -1,0 +1,1701 @@
+I am checking the word:  <class 'str'> خوش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آمد
+
+Valid Useless(Common):  آمد
+end word: 
+
+
+I am checking the word:  <class 'str'> به
+
+Valid Useless(Common):  به
+end word: 
+
+
+I am checking the word:  <class 'str'> و
+
+Valid Useless(Common):  و
+end word: 
+
+
+I am checking the word:  <class 'str'> آغازین
+
+end word: 
+
+
+I am checking the word:  <class 'str'> را
+
+Valid Useless(Common):  را
+end word: 
+
+
+I am checking the word:  <class 'str'> میکنیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> به
+
+Valid Useless(Common):  به
+end word: 
+
+
+I am checking the word:  <class 'str'> سلام
+
+Valid Useless(Common):  سلام
+end word: 
+
+
+I am checking the word:  <class 'str'> شما
+
+Valid Useless(Common):  شما
+end word: 
+
+
+I am checking the word:  <class 'str'> بزرگوار
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بسی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> خشنودیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> که
+
+Valid Useless(Common):  که
+end word: 
+
+
+I am checking the word:  <class 'str'> رفیق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> راهمان
+
+end word: 
+
+
+I am checking the word:  <class 'str'> گشته
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تا
+
+Valid Useless(Common):  تا
+end word: 
+
+
+I am checking the word:  <class 'str'> خدمت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> سرور
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ارجمندی،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> چون
+
+Valid Useless(Common):  چون
+end word: 
+
+
+I am checking the word:  <class 'str'> باشیم.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ما
+
+Valid Useless(Common):  ما
+end word: 
+
+
+I am checking the word:  <class 'str'> خود
+
+Valid Useless(Common):  خود
+end word: 
+
+
+I am checking the word:  <class 'str'> بر
+
+Valid Useless(Common):  بر
+end word: 
+
+
+I am checking the word:  <class 'str'> میدانیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> که
+
+Valid Useless(Common):  که
+end word: 
+
+
+I am checking the word:  <class 'str'> را
+
+Valid Useless(Common):  را
+end word: 
+
+
+I am checking the word:  <class 'str'> جای
+
+Valid Useless(Common):  جای
+end word: 
+
+
+I am checking the word:  <class 'str'> برای
+
+Valid Useless(Common):  برای
+end word: 
+
+
+I am checking the word:  <class 'str'> خود
+
+Valid Useless(Common):  خود
+end word: 
+
+
+I am checking the word:  <class 'str'> تبدیل
+
+Valid Useless(Common):  تبدیل
+end word: 
+
+
+I am checking the word:  <class 'str'> تا
+
+Valid Useless(Common):  تا
+end word: 
+
+
+I am checking the word:  <class 'str'> جای
+
+Valid Useless(Common):  جای
+end word: 
+
+
+I am checking the word:  <class 'str'> برای
+
+Valid Useless(Common):  برای
+end word: 
+
+
+I am checking the word:  <class 'str'> شود.
+
+Valid Useless(Common):  شود
+end word: 
+
+
+I am checking the word:  <class 'str'> گرامی
+
+Valid Useless(Common):  گرامی
+end word: 
+
+
+I am checking the word:  <class 'str'> مرکز
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تماس
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هاستد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> شما
+
+Valid Useless(Common):  شما
+end word: 
+
+
+I am checking the word:  <class 'str'> شرح
+
+end word: 
+
+
+I am checking the word:  <class 'str'> و
+
+Valid Useless(Common):  و
+end word: 
+
+
+I am checking the word:  <class 'str'> میباشد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> web
+
+Valid ENgForm: web
+end word: 
+
+
+I am checking the word:  <class 'str'> cloud.hifon.ir
+
+Valid Link: cloud.hifon.ir
+end word: 
+
+
+I am checking the word:  <class 'str'> server)=
+
+Valid ENgForm: server
+end word: 
+
+
+I am checking the word:  <class 'str'> sip
+
+Valid ENgForm: sip
+end word: 
+
+
+I am checking the word:  <class 'str'> proxy.mysup.ir
+
+Valid Link: proxy.mysup.ir
+end word: 
+
+
+I am checking the word:  <class 'str'> fazlollahi
+
+Valid ENgForm: fazlollahi
+end word: 
+
+
+I am checking the word:  <class 'str'> fazlollahi@123
+
+Valid ENgForm: fazlollahi123
+end word: 
+
+
+I am checking the word:  <class 'str'> همچنین
+
+Valid Useless(Common):  همچنین
+end word: 
+
+
+I am checking the word:  <class 'str'> رجستر
+
+end word: 
+
+
+I am checking the word:  <class 'str'> نمودن
+
+end word: 
+
+
+I am checking the word:  <class 'str'> داخلی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> های
+
+Valid Useless(Common):  های
+end word: 
+
+
+I am checking the word:  <class 'str'> (کلود)
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> از
+
+Valid Useless(Common):  از
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> های
+
+Valid Useless(Common):  های
+end word: 
+
+
+I am checking the word:  <class 'str'> اقدام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ویدیویی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> https://www.aparat.com/mysup
+
+Valid Link: https://www.aparat.com/mysup
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> متنی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> https://forum.mysup.ir/t/%D8%B1%D9%88%D8%B4-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%DB%8C%D9%88%D8%B2%D8%B1-%D8%AF%D8%B1-simotel-hosted-pbx/272/7
+
+Valid Link: https://forum.mysup.ir/t/%D8%B1%D9%88%D8%B4-%D8%B1%D8%AC%DB%8C%D8%B3%D8%AA%D8%B1-%DA%A9%D8%B1%D8%AF%D9%86-%DB%8C%D9%88%D8%B2%D8%B1-%D8%AF%D8%B1-simotel-hosted-pbx/272/7
+end word: 
+
+
+I am checking the word:  <class 'str'> جهت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مطالعه
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مستندات
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مربوط
+
+Valid Useless(Common):  مربوط
+end word: 
+
+
+I am checking the word:  <class 'str'> سیموتل
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> از
+
+Valid Useless(Common):  از
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زیر
+
+Valid Useless(Common):  زیر
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> https://doc.mysup.ir/
+
+Valid Link: https://doc.mysup.ir/
+end word: 
+
+
+I am checking the word:  <class 'str'> در
+
+Valid Useless(Common):  در
+end word: 
+
+
+I am checking the word:  <class 'str'> وجود
+
+Valid Useless(Common):  وجود
+end word: 
+
+
+I am checking the word:  <class 'str'> گونه
+
+Valid Useless(Common):  گونه
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> با
+
+Valid Useless(Common):  با
+end word: 
+
+
+I am checking the word:  <class 'str'> پشتیبانی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> در
+
+Valid Useless(Common):  در
+end word: 
+
+
+I am checking the word:  <class 'str'> باشید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> با
+
+Valid Useless(Common):  با
+end word: 
+
+
+I am checking the word:  <class 'str'> از
+
+Valid Useless(Common):  از
+end word: 
+
+
+I am checking the word:  <class 'str'> شما
+
+Valid Useless(Common):  شما
+end word: 
+
+
+Second Time :////////////////////
+I am checking the word:  <class 'str'> خوش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میگوییم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> شما/
+
+Valid Useless(Common):  شما
+end word: 
+
+
+I am checking the word:  <class 'str'> آغازین
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مزین
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میکنیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> سلام.
+
+Valid Useless(Common):  سلام
+end word: 
+
+
+I am checking the word:  <class 'str'> دوست
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بزرگوار
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بسی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> خشنودیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> توفیق،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> رفیق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> راهمان
+
+end word: 
+
+
+I am checking the word:  <class 'str'> گشته
+
+end word: 
+
+
+I am checking the word:  <class 'str'> در
+
+Valid Useless(Common):  در
+end word: 
+
+
+I am checking the word:  <class 'str'> سرور
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ارجمندی،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> شما
+
+Valid Useless(Common):  شما
+end word: 
+
+
+I am checking the word:  <class 'str'> رسالت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> را
+
+Valid Useless(Common):  را
+end word: 
+
+
+I am checking the word:  <class 'str'> میدانیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> دنیا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> به
+
+Valid Useless(Common):  به
+end word: 
+
+
+I am checking the word:  <class 'str'> زندگی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ودیگران
+
+end word: 
+
+
+I am checking the word:  <class 'str'> کنیم
+
+Valid Useless(Common):  کنیم
+end word: 
+
+
+I am checking the word:  <class 'str'> زیباتری
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زندگی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مشترک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اطلاعات
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مرکز
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تماس
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هاستد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> به
+
+Valid Useless(Common):  به
+end word: 
+
+
+I am checking the word:  <class 'str'> ذیل
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میباشد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> address=
+
+Valid ENgForm: address
+end word: 
+
+
+I am checking the word:  <class 'str'> daneshjosho.hifon.ir
+
+Valid Link: daneshjosho.hifon.ir
+end word: 
+
+
+I am checking the word:  <class 'str'> username=
+
+Valid ENgForm: username
+end word: 
+
+
+I am checking the word:  <class 'str'> جهت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> رجستر
+
+end word: 
+
+
+I am checking the word:  <class 'str'> نمودن
+
+end word: 
+
+
+I am checking the word:  <class 'str'> داخلی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هاستد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> (کلود)
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> طریق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زیر
+
+Valid Useless(Common):  زیر
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ویدیویی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> متنی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> همچنین
+
+Valid Useless(Common):  همچنین
+end word: 
+
+
+I am checking the word:  <class 'str'> مطالعه
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مستندات
+
+end word: 
+
+
+I am checking the word:  <class 'str'> به
+
+Valid Useless(Common):  به
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> طریق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اقدام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ضمنا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> صورت
+
+Valid Useless(Common):  صورت
+end word: 
+
+
+I am checking the word:  <class 'str'> درخواستی،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> واحد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> پشتیبانی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ارتباط
+
+end word: 
+
+
+I am checking the word:  <class 'str'> باشید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تشکر
+
+end word: 
+
+
+I am checking the word:  <class 'str'> همکاری
+
+end word: 
+
+
+Third Time :////////////////////
+I am checking the word:  <class 'str'> خوش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میگوییم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> کلام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آغازین
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مزین
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میکنیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> به
+
+Valid Useless(Common):  به
+end word: 
+
+
+I am checking the word:  <class 'str'> بزرگوار
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بسی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> خشنودیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> توفیق،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> رفیق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> راهمان
+
+end word: 
+
+
+I am checking the word:  <class 'str'> گشته
+
+end word: 
+
+
+I am checking the word:  <class 'str'> خدمت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> سرور
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ارجمندی،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> باشیم.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> رسالت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> این
+
+Valid Useless(Common):  این
+end word: 
+
+
+I am checking the word:  <class 'str'> دنیا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بهتری
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زندگی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ودیگران
+
+end word: 
+
+
+I am checking the word:  <class 'str'> دنیا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زیباتری
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زندگی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مشترک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اطلاعات
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مرکز
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تماس
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هاستد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> شرح
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ذیل
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میباشد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> domain(sip
+
+Valid ENgForm: domainsip
+end word: 
+
+
+I am checking the word:  <class 'str'> password=
+
+Valid ENgForm: password
+end word: 
+
+
+I am checking the word:  <class 'str'> رجستر
+
+end word: 
+
+
+I am checking the word:  <class 'str'> نمودن
+
+end word: 
+
+
+I am checking the word:  <class 'str'> داخلی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هاستد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> (کلود)
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> طریق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اقدام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ویدیویی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> متنی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> جهت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مطالعه
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مستندات
+
+end word: 
+
+
+I am checking the word:  <class 'str'> سیموتل
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> طریق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اقدام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ضمنا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هر
+
+Valid Useless(Common):  هر
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> واحد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> پشتیبانی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ارتباط
+
+end word: 
+
+
+I am checking the word:  <class 'str'> باشید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تشکر
+
+end word: 
+
+
+I am checking the word:  <class 'str'> همکاری
+
+end word: 
+
+
+Fourth Time :////////////////////
+I am checking the word:  <class 'str'> خوش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میگوییم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> کلام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آغازین
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مزین
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میکنیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> دوست
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بزرگوار
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بسی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> خشنودیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> توفیق،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> رفیق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> راهمان
+
+end word: 
+
+
+I am checking the word:  <class 'str'> گشته
+
+end word: 
+
+
+I am checking the word:  <class 'str'> خدمت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> سرور
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ارجمندی،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> باشیم.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> رسالت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میدانیم
+
+end word: 
+
+
+I am checking the word:  <class 'str'> دنیا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> بهتری
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زندگی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ودیگران
+
+end word: 
+
+
+I am checking the word:  <class 'str'> دنیا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زیباتری
+
+end word: 
+
+
+I am checking the word:  <class 'str'> زندگی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مشترک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اطلاعات
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مرکز
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تماس
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هاستد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> شرح
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ذیل
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میباشد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> proxy=
+
+Valid ENgForm: proxy
+end word: 
+
+
+I am checking the word:  <class 'str'> رجستر
+
+end word: 
+
+
+I am checking the word:  <class 'str'> نمودن
+
+end word: 
+
+
+I am checking the word:  <class 'str'> داخلی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> هاستد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> (کلود)
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> طریق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اقدام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ویدیویی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> آموزش
+
+end word: 
+
+
+I am checking the word:  <class 'str'> متنی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> جهت
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مطالعه
+
+end word: 
+
+
+I am checking the word:  <class 'str'> مستندات
+
+end word: 
+
+
+I am checking the word:  <class 'str'> سیموتل
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> طریق
+
+end word: 
+
+
+I am checking the word:  <class 'str'> لینک
+
+end word: 
+
+
+I am checking the word:  <class 'str'> اقدام
+
+end word: 
+
+
+I am checking the word:  <class 'str'> فرمایید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ضمنا
+
+end word: 
+
+
+I am checking the word:  <class 'str'> درخواستی،
+
+end word: 
+
+
+I am checking the word:  <class 'str'> میتوانید
+
+end word: 
+
+
+I am checking the word:  <class 'str'> واحد
+
+end word: 
+
+
+I am checking the word:  <class 'str'> پشتیبانی
+
+end word: 
+
+
+I am checking the word:  <class 'str'> ارتباط
+
+end word: 
+
+
+I am checking the word:  <class 'str'> باشید.
+
+end word: 
+
+
+I am checking the word:  <class 'str'> تشکر
+
+end word: 
+
+
+I am checking the word:  <class 'str'> همکاری
+
+end word: 
+
+
+rest: 
+خوش
+میگوییم
+کلام
+آغازین
+مزین
+میکنیم
+دوست
+بزرگوار
+بسی
+خشنودیم
+توفیق،
+رفیق
+راهمان
+گشته
+خدمت
+سرور
+ارجمندی،
+باشیم.
+رسالت
+میدانیم
+دنیا
+بهتری
+زندگی
+ودیگران
+دنیا
+زیباتری
+زندگی
+مشترک
+اطلاعات
+مرکز
+تماس
+هاستد
+شرح
+ذیل
+میباشد
+جهت
+رجستر
+نمودن
+داخلی
+هاستد
+(کلود)
+میتوانید
+طریق
+لینک
+اقدام
+فرمایید.
+لینک
+آموزش
+ویدیویی
+لینک
+آموزش
+متنی
+جهت
+مطالعه
+مستندات
+سیموتل
+میتوانید
+طریق
+لینک
+اقدام
+فرمایید
+ضمنا
+درخواستی،
+میتوانید
+واحد
+پشتیبانی
+ارتباط
+باشید.
+تشکر
+همکاری
