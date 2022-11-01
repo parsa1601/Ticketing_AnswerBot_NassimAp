@@ -146,10 +146,39 @@ class Hasan:
     return str1
 
 
+  def restCounter(self, words , f2):
+    with open ('worthy.txt', encoding="utf8") as worthy:
+      list_worthies = worthy.read().split('\n')
+
+    all_worthies = dict()
+    non_worthy_words = []
+    worthy_words = []
+
+    for x in list_worthies:
+        all_worthies[x] = 0
+
+    for w in words:
+        if(list_worthies.__contains__(w)):
+            # print(w)
+            all_worthies[w] = all_worthies[w] + 1           
+        else:
+            non_worthy_words.append(w)
+
+    kk = all_worthies.keys() 
+    print("worthy words with count:", file = f2)       
+    for k in kk:
+        if(all_worthies[k] != 0):
+            print(k , " , " , all_worthies[k] , file = f2)        
+    
+    print("------------------------------------------" , file = f2)        
+    print("non worthy words with count:", file = f2)    
+    for w in non_worthy_words:    
+        print(w, file = f2)
+
   #######################################################################3############
 
 
-  def main(self, txt, counter , f):
+  def main(self, txt, counter , f , f2):
     self.create_stopwords()
     txt = txt.replace("\r", " ")
     txt = txt.replace("\n", " ")
@@ -207,27 +236,32 @@ class Hasan:
         print("", file = f)
         print("", file = f)
           
+
+          
     print("hehehheheheheheheheheheh" , counter)
     if (counter == 0):
         print("Second Time :////////////////////" , file=f)  
         s = self.listToString(words)
         
-        self.main(s, 2, f)
+        self.main(s, 2, f ,f2)
     if (counter == 2):
         print("Third Time :////////////////////" , file=f)  
         s = self.listToString(words)
         
-        self.main(s, 3, f)
+        self.main(s, 3, f , f2)
     if (counter == 3):
         print("Fourth Time :////////////////////" , file=f)  
         s = self.listToString(words)
         
-        self.main(s, 1, f)
+        self.main(s, 1, f , f2)
     if (counter == 1):    
-        print("hehehheheheheheheheheheh" , counter)
-        print("rest: " , file = f)    
+        print("hehehhehehehehehehehehehL" , counter)
+        
+        print("rest: " , file = f2)    
         for w in words:
-            print(w , file = f) 
+            print(w , file = f2) 
+        print("------------------------------------------" , file = f2)
+        self.restCounter(words , f2)    
     f.close()
 
 
@@ -240,7 +274,8 @@ with open('sample.txt', encoding="utf8") as f:
     # print(type(.
 
     f = open("output.txt" , "w", encoding="utf8")
+    f2 =open("output2.txt" , "w", encoding="utf8")
 
-    h.main(lines,0 , f)
+    h.main(lines,0 , f , f2)
 
 # text = input("enter comment:")
